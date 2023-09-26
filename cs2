@@ -6,6 +6,7 @@ int main()
 int a,b,c;
  cin>>a;
 cout<<"Hello wotld!";
-
+cout<<"you write cans";
+cin>>b;
  return 0;
 }
